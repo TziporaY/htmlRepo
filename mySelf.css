@@ -1,0 +1,46 @@
+.spotlight {
+    width: 300px; height: 300px;
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-repeat: no-repeat;
+}
+
+#name {
+    text-align: center;
+    color: #9c0831;
+    margin: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.fontSizeSmall {
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ntmu {
+    text-align: center;
+    color: #9c0831;
+    margin:10px;
+}
+
+h1 { color: #9c0831; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }
+
+
+h2 { color: #9c0831; font-family: 'Source Sans Pro', sans-serif; font-size: 28px; font-weight: 400; line-height: 32px; margin: 0 0 24px; }
+
+
+.subheader { font-size: 26px; font-weight: 300; color: #0c6161; margin: 0 0 24px; }
+
+
+p { color: #4c4a37; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px; }
+
+
+a { color: #9c0831; background: #fff4a3; text-decoration: none; }
+
+
+a:hover { color: #9c0831 }
