@@ -1,15 +1,19 @@
+/* 1 element */
 .spotlight {
     width: 300px; height: 300px;
 }
-
+/* 2 element */
 body {
     background-image: url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-repeat: no-repeat;
 }
 
 #name {
+/* 3 elememnt */
     text-align: center;
+/* 4 element */
     color: #9c0831;
+/* 5 elememnt */
     margin: 10px;
 }
 
@@ -28,7 +32,7 @@ body {
     color: #9c0831;
     margin:10px;
 }
-
+/* elements - color,front,size - for h1,h2,p,a */
 h1 { color: #9c0831; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }
 
 h2 { color: #9c0831; font-family: 'Source Sans Pro', sans-serif; font-size: 28px; font-weight: 400; line-height: 32px; margin: 0 0 24px; }
@@ -36,7 +40,7 @@ h2 { color: #9c0831; font-family: 'Source Sans Pro', sans-serif; font-size: 28px
 p { color: #4c4a37; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px; }
 
 a { color: #9c0831; background: #fff4a3; text-decoration: none; }
-
+/* elements of the table */
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -56,3 +60,6 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+
+/* Most of the elements are repetitive */
